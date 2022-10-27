@@ -1,0 +1,33 @@
+body{
+   background-image: url("krem rengi.jpg");
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+h3{
+    background-color: brown;
+    font-size: 20px;
+    color: white;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 500px;
+}
+
+h4{
+    margin-left: 500px;
+    font-size: 25px;
+}
+
+ul{
+    margin-left: 500px;
+
+}
+    
+ol{
+    margin-left: 500px;
+
+}
+
+
+
